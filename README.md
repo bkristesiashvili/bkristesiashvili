@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=bkristesiashvili&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/abserari)
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=bkristesiashvili&show_icons=true&bg_color=30,#e96443,#904e95&title_color=fff&text_color=fff)](https://github.com/abserari)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&layout=compact)](https://github.com/bkristesiashvili/github-readme-stats)
 
