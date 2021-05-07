@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkristesiashvili&repo=bkristesiashvili)](https://github.com/bkristesiashvili/bkristesiashvili)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&layout=compact)](https://github.com/bkristesiashvili/github-readme-stats)
 
