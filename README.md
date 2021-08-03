@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&layout=compact&theme=tokyonight)](https://github.com/bkristesiashvili/github-readme-stats)
 
-[![img_4286a-350x233](https://github.com/bkristesiashvili/bkristesiashvili/blob/main/cert.png)][1]
+[![img_4286a-350x233](https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg)][1]
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/bkristesiashvili)
