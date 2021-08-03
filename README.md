@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&layout=compact&theme=tokyonight)](https://github.com/bkristesiashvili/github-readme-stats)
 
+[Certification](https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/bkristesiashvili)
 ![Profile views](https://gpvc.arturio.dev/bkristesiashvili)
 
