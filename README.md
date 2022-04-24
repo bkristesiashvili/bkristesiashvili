@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 [1]: https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0
 
 <div>
-  <a href="https://www.linkedin.com/in/iara-karolina-75ba1b198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
