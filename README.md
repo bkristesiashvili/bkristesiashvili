@@ -45,5 +45,8 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/bes000/" target="_blank">
       <img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" height=21 />
     </a>
+    <a href="https://stackoverflow.com/users/14426625/besik-kristesiashvili" target="_blank">
+      <img src="https://img.shields.io/badge/-stack%20overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" height=21 />
+    </a>
   </p>
 </div>
