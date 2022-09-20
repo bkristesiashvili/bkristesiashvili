@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<b>U+1F516 Certifications</b>
+<b>Certifications</b>
 <p align="center">
   <a href="https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg"  width=250 height=170 />
