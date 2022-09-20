@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/bkristesiashvili">
-  <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
-</a><br/>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
+  </a>
+  <a href="https://github.com/bkristesiashvili">
+    <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
+  </a>
+</p>
 
 ## Certifications
 <p align="center">
@@ -32,12 +34,16 @@ Here are some ideas to get you started:
 </p>
 
 <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkristesiashvili&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="bkristesiashvili" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkristesiashvili&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=004e95&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="bkristesiashvili" /></p>
 
 <div>
   <p align="center">
-    <img src="https://gpvc.arturio.dev/bkristesiashvili" height=28 />
-    <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/bes000/" target="_blank"><img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <img src="https://gpvc.arturio.dev/bkristesiashvili" height=21 />
+    <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=21 />
+    </a>
+    <a href="https://www.facebook.com/bes000/" target="_blank">
+      <img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" height=21 />
+    </a>
   </p>
 </div>
