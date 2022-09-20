@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
 </a><br/>
 
+## Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg"  width=250 height=170 />
