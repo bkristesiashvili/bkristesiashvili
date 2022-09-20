@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkristesiashvili&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="bkristesiashvili" /></p>
 
-[<img align='center' src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='18'>](https://github.com/bkristesiashvili)
-![Profile views](https://gpvc.arturio.dev/bkristesiashvili)
+<!-- [<img align='center' src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='18'>](https://github.com/bkristesiashvili)
+![Profile views](https://gpvc.arturio.dev/bkristesiashvili) -->
 
 <div>
   <p align="center">
+    <img src="https://gpvc.arturio.dev/bkristesiashvili" />
     <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
 </div>
