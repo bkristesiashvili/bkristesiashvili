@@ -25,12 +25,10 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg"  width=250 height=170 />
   </a>
+  <a href="https://www.credential.net/3f693fea-3de0-4edc-be32-7556c60b5cc3" target="_blank">
+    <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png"  width=250 height=170 />
+  </a>
 </p>
-
-[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=250 height =170 />][2]
-
-[1]: 
-[2]: https://www.credential.net/3f693fea-3de0-4edc-be32-7556c60b5cc3
 
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkristesiashvili&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="bkristesiashvili" /></p>
