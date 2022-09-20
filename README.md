@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&layout=compact&theme=tokyonight)](https://github.com/bkristesiashvili/github-readme-stats)
 
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=350 />][1]
-[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752848.png" width=350 />][2]
+[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=350 />][2]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/bkristesiashvili)
 ![Profile views](https://gpvc.arturio.dev/bkristesiashvili)
