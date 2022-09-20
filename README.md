@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/bkristesiashvili">
   <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
-</a>
+</a><br/>
 
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=350 />][1]
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=350 />][2]
