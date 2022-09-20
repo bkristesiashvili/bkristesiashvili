@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a><br/>
 
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=250 />][1]
-[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=250 height =180 />][2]
+[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=250 height =175 />][2]
 
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='18'>](https://github.com/bkristesiashvili)
 ![Profile views](https://gpvc.arturio.dev/bkristesiashvili)
