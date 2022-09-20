@@ -38,5 +38,6 @@ Here are some ideas to get you started:
   <p align="center">
     <img src="https://gpvc.arturio.dev/bkristesiashvili" height=28 />
     <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank"><img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   </p>
 </div>
