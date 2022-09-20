@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 <div>
   <p align="center">
-    <img src="https://gpvc.arturio.dev/bkristesiashvili" height=15 />
+    <img src="https://gpvc.arturio.dev/bkristesiashvili" height=18 />
     <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=15 />
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=18 />
     </a>
     <a href="https://www.facebook.com/bes000/" target="_blank">
-      <img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" height=15 />
+      <img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" height=18 />
     </a>
   </p>
 </div>
