@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/bkristesiashvili">
-  <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
-</a><br/>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
+  </a>
+  <a href="https://github.com/bkristesiashvili">
+    <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
+  </a>
+</p>
 
 ## Certifications
 <p align="center">
@@ -36,12 +38,12 @@ Here are some ideas to get you started:
 
 <div>
   <p align="center">
-    <img src="https://gpvc.arturio.dev/bkristesiashvili" height=18 />
+    <img src="https://gpvc.arturio.dev/bkristesiashvili" height=20 />
     <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=18 />
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=20 />
     </a>
     <a href="https://www.facebook.com/bes000/" target="_blank">
-      <img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" height=18 />
+      <img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" height=20 />
     </a>
   </p>
 </div>
