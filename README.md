@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
 </a><br/>
 
-[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=350 />][1]
-[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=350 />][2]
+[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=250 />][1]
+[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=250 />][2]
 
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='18'>](https://github.com/bkristesiashvili)
 ![Profile views](https://gpvc.arturio.dev/bkristesiashvili)
