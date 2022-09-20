@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&count_private=true&show_icons=true&theme=chartreuse-dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&count_private=true&show_icons=true&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
   </a>
   <a href="https://github.com/bkristesiashvili">
     <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
