@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkristesiashvili&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&layout=compact&theme=tokyonight)](https://github.com/bkristesiashvili/github-readme-stats)
+<a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
+</a>
 
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=350 />][1]
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=350 />][2]
@@ -31,5 +33,7 @@ Here are some ideas to get you started:
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkristesiashvili&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="bkristesiashvili" /></p>
 <div>
-  <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
 </div>
