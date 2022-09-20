@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 </a><br/>
 
 [<p align="center">]
-[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=250 height=170 />][1]
+[<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=250 height=170 />]
+[</p>][1]
+[<p align="center">]
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=250 height =170 />][2]
 [</p>]
 
