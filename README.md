@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/bkristesiashvili">
   <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkristesiashvili&bg_color=0,004e95,004e95&title_color=fff&text_color=fff" />
 </a><br/>
-<p align="center">
+
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg" width=250 height=170 />][1]
 [<img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png" width=250 height =170 />][2]
-</p>
 
 [1]: https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0
 [2]: https://www.credential.net/3f693fea-3de0-4edc-be32-7556c60b5cc3
