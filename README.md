@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 **bkristesiashvili/bkristesiashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Certifications
+<b>Certifications</b>
 <p align="center">
   <a href="https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/163324302_2595826237376576_4554714125109321727_n.jpg"  width=250 height=170 />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<b>🔥 Github Streaks</b>
+<b>Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkristesiashvili&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=004e95&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="bkristesiashvili" /></p>
 
 <div>
