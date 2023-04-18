@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <b>Certifications</b>
 <p align="center">
   <a href="https://www.credly.com/badges/3aeaea44-9410-40cf-add6-8b7917da88b0" target="_blank">
