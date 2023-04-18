@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <b>GitHub Trophies</b>
 <a href="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&count_private=true&show_icons=true&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2" />
   </a>
   
 <b>Certifications</b>
