@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <b>GitHub Trophies</b>
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=2" />
   </a>
 </p>
   
