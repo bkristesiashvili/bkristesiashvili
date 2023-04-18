@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<b>GitHub Trophies</b>
+<b>Trophies</b>
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=discord&no-frame=false&no-bg=true&margin-w=6&margin-h=4&no-frame=true">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=discord&no-frame=true&no-bg=false&margin-w=6&margin-h=4&no-frame=true" />
