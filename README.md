@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 </p>
 
 <b>GitHub Trophies</b>
-<a href="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2">
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2" />
   </a>
+</p>
   
 <b>Certifications</b>
 <p align="center">
