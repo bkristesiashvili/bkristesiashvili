@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+<b>GitHub Trophies</b>
 ![](https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=radical&no-frame=false&no-bg=false&margin-w=2)
 
 <b>Certifications</b>
