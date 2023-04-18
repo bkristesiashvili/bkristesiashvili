@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&count_private=true&show_icons=true&theme=discord">
+  <a href="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&count_private=true&show_icons=true&theme=chartreuse-dark">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkristesiashvili&count_private=true&show_icons=true&bg_color=30,004e95,004e95&title_color=fff&text_color=fff" />
   </a>
   <a href="https://github.com/bkristesiashvili">
