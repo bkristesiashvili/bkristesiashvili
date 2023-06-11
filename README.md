@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <div>
   <p align="center">
-    <img src="https://gpvc.arturio.dev/bkristesiashvili" height=24 />
+<!--     <img src="https://gpvc.arturio.dev/bkristesiashvili" height=24 /> -->
     <a href="https://www.linkedin.com/in/besik-kristesiashvili/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=24 />
     </a>
