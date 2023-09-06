@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <a href="https://www.credential.net/3f693fea-3de0-4edc-be32-7556c60b5cc3" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/166365752849.png"  width=250 height=170 />
   </a>
-  <a href="[https://www.credential.net/3f693fea-3de0-4edc-be32-7556c60b5cc3](https://www.btacertified.com/dlink/277b86b55d8c6cd3e777c800c53e85cbbe6908767d02b508834ba71f76a26bd2/certdisplayhash)" target="_blank">
+  <a href="https://www.btacertified.com/dlink/277b86b55d8c6cd3e777c800c53e85cbbe6908767d02b508834ba71f76a26bd2/certdisplayhash" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/370604814_3205312586427935_2630459846165384560_n.jpg"  width=250 height=170 />
   </a>
 </p>
