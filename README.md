@@ -41,6 +41,9 @@ Here are some ideas to get you started:
   <a href="https://www.btacertified.com/dlink/277b86b55d8c6cd3e777c800c53e85cbbe6908767d02b508834ba71f76a26bd2/certdisplayhash" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/370604814_3205312586427935_2630459846165384560_n.jpg"  width=250 height=170 />
   </a>
+  <a href="https://www.designgurus.io/certificate/WyI2M2UxOTBlNDVhNzIxNDg2Yjc1ZmRhZTMiLCI2N2Q2ODhkOTA3ODczM2UwMmU3YzFjMWYiXQ==" target="_blank">
+    <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/designguru_cert_solid.png"  width=250 height=170 />
+  </a>
 </p>
 
 <b>Github Streaks</b>
