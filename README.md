@@ -44,6 +44,9 @@ Here are some ideas to get you started:
   <a href="https://www.designgurus.io/certificate/WyI2M2UxOTBlNDVhNzIxNDg2Yjc1ZmRhZTMiLCI2N2Q2ODhkOTA3ODczM2UwMmU3YzFjMWYiXQ==" target="_blank">
     <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/designguru_cert_solid.png"  width=250 height=170 />
   </a>
+  <a href="https://www.designgurus.io/certificate/WyI2M2UxOTBlNDVhNzIxNDg2Yjc1ZmRhZTMiLCI2N2Q2ODhkOTA3ODczM2UwMmU3YzFjMWYiXQ==" target="_blank">
+    <img src="https://github.com/bkristesiashvili/bkristesiashvili/blob/main/68aa8d83-e335-48af-a972-5247dab524e5.jpeg"  width=250 height=170 />
+  </a>
 </p>
 
 <b>Github Streaks</b>
