@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkristesiashvili&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkristesiashvili&theme=dracula&hide_border=false&area=true" alt="Contribution Graph"/></p>
 <b>Trophies</b>
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=bkristesiashvili&theme=discord&no-frame=false&no-bg=true&margin-w=6&margin-h=4&no-frame=true">
