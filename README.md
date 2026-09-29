@@ -26,8 +26,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="./profile/stats.svg" height="180" alt="GitHub stats" /></td>
-    <td><img src="./profile/top-langs.svg" height="180" alt="Top languages" /></td>
+    <td><img src="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile/stats.svg" height="180" alt="GitHub stats" /></td>
+    <td><img src="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile/top-langs.svg" height="180" alt="Top languages" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=bkristesiashvili&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" /></td>
@@ -38,24 +38,24 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
-    <img src="./profile/snake-dark.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile/snake-dark.svg" alt="Contribution snake" />
   </picture>
 </p>
 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/bkristesiashvili/bkristesiashvili/output/profile/trophy.svg" alt="GitHub trophies" />
 </p>
 
 ### 🎓 Certifications
