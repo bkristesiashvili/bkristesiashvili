@@ -40,7 +40,10 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Trophies query cross-repo user data, which the repo-scoped GITHUB_TOKEN can't read.
+      # Needs a PAT (read:user) in the TROPHY_TOKEN secret; never blocks the other cards.
       - name: Trophies
+        continue-on-error: true
         uses: Erik-Donath/github-profile-trophy@eb0893b31de06841663555d10aa43eb7cf27952f # feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
@@ -52,7 +55,7 @@ jobs:
           margin-height: "10"
           no-frame: "true"
           no-background: "true"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
