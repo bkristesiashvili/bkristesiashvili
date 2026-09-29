@@ -1,7 +1,7 @@
 name: Update profile cards
 
 # The public Vercel instances (readme-stats, activity-graph, trophy) are paused/disabled,
-# so every card is generated here and committed to profile/ — no third-party hosting needed.
+# so every card is generated here and published to the `output` branch — no third-party hosting needed.
 
 on:
   schedule:
@@ -71,11 +71,14 @@ jobs:
             profile/snake-dark.svg?palette=github-dark
             profile/snake-light.svg
 
-      - name: Commit cards
+      # main is protected (PRs only), so the generated cards live on an orphan `output`
+      # branch that is force-pushed each run; README embeds them from there.
+      - name: Publish cards to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile profile-3d-contrib
-          git commit -m "Update profile cards" || exit 0
-          git pull --rebase
-          git push
+          git checkout --orphan output
+          git rm -rf --cached --quiet .
+          git add -f profile profile-3d-contrib
+          git commit -m "Update profile cards"
+          git push -f origin output
